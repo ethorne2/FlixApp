@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2604C40D27090F9D00584C1E /* TrailerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2604C40C27090F9D00584C1E /* TrailerViewController.swift */; };
 		261185F42703BD80008BB181 /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 261185F32703BD80008BB181 /* MovieDetailsViewController.swift */; };
 		266124632700DA4E003779E4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266124622700DA4E003779E4 /* AppDelegate.swift */; };
 		266124652700DA4E003779E4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266124642700DA4E003779E4 /* SceneDelegate.swift */; };
@@ -45,6 +46,7 @@
 
 /* Begin PBXFileReference section */
 		034BA2FDE6B44E7462657561 /* Pods_FlixApp_FlixAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlixApp_FlixAppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2604C40C27090F9D00584C1E /* TrailerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TrailerViewController.swift; path = "../../../../../Library/Mobile Documents/com~apple~CloudDocs/.Trash/TrailerViewController.swift"; sourceTree = "<group>"; };
 		261185F32703BD80008BB181 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 		2661245F2700DA4E003779E4 /* FlixApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlixApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		266124622700DA4E003779E4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 		266124612700DA4E003779E4 /* FlixApp */ = {
 			isa = PBXGroup;
 			children = (
+				2604C40C27090F9D00584C1E /* TrailerViewController.swift */,
 				266124622700DA4E003779E4 /* AppDelegate.swift */,
 				266124642700DA4E003779E4 /* SceneDelegate.swift */,
 				266124662700DA4E003779E4 /* MovieViewController.swift */,
@@ -433,6 +436,7 @@
 				266124652700DA4E003779E4 /* SceneDelegate.swift in Sources */,
 				26DABD052707F4CE0061CBC7 /* MovieGridViewController.swift in Sources */,
 				2688C8D82707FAD400176CE3 /* MovieGridCell.swift in Sources */,
+				2604C40D27090F9D00584C1E /* TrailerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
